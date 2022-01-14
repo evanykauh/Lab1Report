@@ -6,6 +6,10 @@ To download VS Code, go to [vs code download link](https://code.visualstudio.com
 
 When you do have it finally installed, you should be able to open a VS code window like in the image below. 
 
+![vs code](https://user-images.githubusercontent.com/94486303/149598386-314b0d6c-afe1-4df3-8ead-aebde3ae19a9.png)
+
+
+
 
 
 
