@@ -8,6 +8,29 @@ When you do have it finally installed, you should be able to open a VS code wind
 
 ![vs code](https://user-images.githubusercontent.com/94486303/149598386-314b0d6c-afe1-4df3-8ead-aebde3ae19a9.png)
 
+## 2. Remotely Connecting
+
+Now that we have VS Code, let's use it to connect to a remote computer over the internet.
+
+First, if you’re on Windows: install a program called OpenSSH
+- [ssh link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
+- This is a program that can connect your computer to other computers that have this kind of account
+
+Second, find you're course specific account. Since I'm in CSE 15L, I will use the link below
+- [account link](https://sdacs.ucsd.edu/~icc/index.php)
+
+Finally, use the instructions in the link below to connect to the remote computer using VSCode’s remote option.
+- [link](https://code.visualstudio.com/docs/remote/ssh#_connect-to-a-remote-host)
+
+Now open up a new terminal in VS Code. Your command should say "$ ssh cs15lwi22zz@ieng6.ucsd.edu" but with the "zz" replaced by the letters in your course-specific account. And since this is the first time you’ve connected to this server, you will probably get a message like this:
+
+```
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+```
+
+Type yes and press enter, then give your password. Once you're logged in, you should see something like this: 
 
 
 
