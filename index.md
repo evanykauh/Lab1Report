@@ -32,6 +32,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 Type yes and press enter, then give your password. Once you're logged in, you should see something like this: 
 
+![terminal image](https://user-images.githubusercontent.com/94486303/149599607-ec3c087d-aa01-40ee-994b-090b60e7aaa6.png)
 
 
 
