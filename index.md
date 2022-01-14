@@ -1,6 +1,10 @@
 # How to log into a course-specific account on `ieng6`
 
+## 1. Install VS Code
 
+To download VS Code, go to [vs code download link](https://code.visualstudio.com/) and follow the instructions designed for you're type of computer. There should be versions for all of major operating systems, but if you have something like a chromebook, you won't be able to download it for now. 
+
+When you do have it finally installed, you should be able to open a VS code window like in the image below. 
 
 
 
