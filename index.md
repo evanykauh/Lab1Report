@@ -47,7 +47,7 @@ Now you can play around with the Terminal by running some of the commands below:
 - ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username
 - cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lwi22/public/hello.txt
-  
+
 Mine looked something like this:
 
   ![terminal image](https://user-images.githubusercontent.com/94486303/149600104-caa6efee-5bbd-4948-bad9-fe2757339501.png) 
@@ -57,7 +57,11 @@ Side note: To log out of the remote server in your terminal, you can Ctrl-D or r
 
 ## 4. Moving Files with scp
 
-  
+To copy a file from your computer to a remote computer, you use the `scp` command. For example, if I had a file called WhereAmI.java, I would use the command:
+- `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/`
+
+  Remember, you must be in the terminal from the directory where you made this file to run this command. Overall, it'll look something like this:
+
   
 ## 5. Setting an SSH Key
 ## 6. Optimizing Remote Running
