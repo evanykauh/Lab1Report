@@ -60,10 +60,15 @@ Side note: To log out of the remote server in your terminal, you can Ctrl-D or r
 To copy a file from your computer to a remote computer, you use the `scp` command. For example, if I had a file called WhereAmI.java, I would use the command:
 - `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/`
 
-  Remember, you must be in the terminal from the directory where you made this file to run this command. Overall, it'll look something like this:
+Remember, you must be in the terminal from the directory where you made this file to run this command. Overall, it'll look something like this:
+
+  ![scp image] (https://user-images.githubusercontent.com/94486303/149600684-5a956e63-dee7-45f6-94a4-74752cca318c.png)
 
   
 ## 5. Setting an SSH Key
+  
+  
+  
 ## 6. Optimizing Remote Running
 
 
