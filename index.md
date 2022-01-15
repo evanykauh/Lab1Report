@@ -40,11 +40,11 @@ Congradulations! Now your terminal is officially connected to a computer in the 
 
 Now you can play around with the Terminal by running some of the commands below: 
 
+
 - cd ~
 - cd
 - ls -lat
 - ls -a
-- ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username
 - cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lwi22/public/hello.txt
 
@@ -62,11 +62,11 @@ To copy a file from your computer to a remote computer, you use the `scp` comman
 
 Remember, you must be in the terminal from the directory where you made this file to run this command. Overall, it'll look something like this:
 
-![scp image] (https://user-images.githubusercontent.com/94486303/149600684-5a956e63-dee7-45f6-94a4-74752cca318c.png)
+![scp image](https://user-images.githubusercontent.com/94486303/149600684-5a956e63-dee7-45f6-94a4-74752cca318c.png)
 
   
 ## 5. Setting an SSH Key
-  
+
   
   
 ## 6. Optimizing Remote Running
