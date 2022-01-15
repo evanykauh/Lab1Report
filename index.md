@@ -34,7 +34,7 @@ Type yes and press enter, then give your password. Once you're logged in, you sh
 
 ![terminal image](https://user-images.githubusercontent.com/94486303/149599607-ec3c087d-aa01-40ee-994b-090b60e7aaa6.png)
 
-Congradulations! Now your terminal is officially connected to a computer in the CSE basement. 
+Congratulations! Now your terminal is officially connected to a computer in the CSE basement. 
 
 ## 3. Trying some commands
 
@@ -64,10 +64,14 @@ Remember, you must be in the terminal from the directory where you made this fil
 
 ![scp image](https://user-images.githubusercontent.com/94486303/149600684-5a956e63-dee7-45f6-94a4-74752cca318c.png)
 
+To check if it's there, log into ieng6 with ssh again, and use ls. You should see the file there in your home directory.
   
 ## 5. Setting an SSH Key
 
-  
+What is an SSH Key? SSH keys use a program called ssh-keygen to create a pair of files called the public key and private key. You copy the public key to a particular location on the server, and the private key in a particular location on the client. Then, the ssh command can use the pair of files in place of your password.
+
+To set this up, type ssh-keygen into your terminal. This will generate the key pair and prompt you to enter a file in which to save the key. Then, after entering a passphrase of your choice, your keys and fingerprint should be saved. The process should be like the image below: 
+
   
 ## 6. Optimizing Remote Running
 
