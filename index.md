@@ -47,6 +47,8 @@ Now you can play around with the Terminal by running some of the commands below:
 - ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username
 - cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lwi22/public/hello.txt
+  
+  
 
 
 
