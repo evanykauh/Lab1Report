@@ -1,4 +1,4 @@
-# How to log into a course-specific account on `ieng6`
+# How to log into a course-specific account on ieng6
 
 ## 1. Install VS Code
 
@@ -34,10 +34,25 @@ Type yes and press enter, then give your password. Once you're logged in, you sh
 
 ![terminal image](https://user-images.githubusercontent.com/94486303/149599607-ec3c087d-aa01-40ee-994b-090b60e7aaa6.png)
 
+Congradulations! Now your terminal is officially connected to a computer in the CSE basement. 
+
+## 3. Trying some commands
+
+Now you can play around with the Terminal by running some of the commands below: 
+
+- cd ~
+- cd
+- ls -lat
+- ls -a
+- ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username
+- cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
+- cat /home/linux/ieng6/cs15lwi22/public/hello.txt
 
 
 
-
+## 4. Moving Files with scp
+## 5. Setting an SSH Key
+## 6. Optimizing Remote Running
 
 
 
