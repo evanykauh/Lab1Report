@@ -62,7 +62,7 @@ To copy a file from your computer to a remote computer, you use the `scp` comman
 
 Remember, you must be in the terminal from the directory where you made this file to run this command. Overall, it'll look something like this:
 
-  ![scp image] (https://user-images.githubusercontent.com/94486303/149600684-5a956e63-dee7-45f6-94a4-74752cca318c.png)
+![scp image] (https://user-images.githubusercontent.com/94486303/149600684-5a956e63-dee7-45f6-94a4-74752cca318c.png)
 
   
 ## 5. Setting an SSH Key
