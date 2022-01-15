@@ -48,7 +48,9 @@ Now you can play around with the Terminal by running some of the commands below:
 - cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 - cat /home/linux/ieng6/cs15lwi22/public/hello.txt
   
-  
+Mine looked something like this:
+
+  ![terminal image](https://user-images.githubusercontent.com/94486303/149600104-caa6efee-5bbd-4948-bad9-fe2757339501.png) 
 
 
 
