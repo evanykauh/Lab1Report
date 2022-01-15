@@ -52,9 +52,13 @@ Mine looked something like this:
 
   ![terminal image](https://user-images.githubusercontent.com/94486303/149600104-caa6efee-5bbd-4948-bad9-fe2757339501.png) 
 
+Side note: To log out of the remote server in your terminal, you can Ctrl-D or run the command `exit`
 
 
 ## 4. Moving Files with scp
+
+  
+  
 ## 5. Setting an SSH Key
 ## 6. Optimizing Remote Running
 
